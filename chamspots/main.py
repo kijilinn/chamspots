@@ -1,5 +1,5 @@
 # We need to import the classes from the file we just made
-from genetics import Gene, Creature 
+from src.genetics import Gene, Creature 
 
 # --- THE SIMULATION ---
 
